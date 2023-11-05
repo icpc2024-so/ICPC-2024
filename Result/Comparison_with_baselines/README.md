@@ -1,0 +1,2 @@
+In this directory, there is an example of recommended code examples for the 10 most popular Java libraries: Jackson, SWT, MongoDB
+driver, Javax Servlet, JDBC API, JDT core, Apache Camel, Apache Wicket, Twitter4j, and Apache POI. In order to compare our work with baselines including PostFinder and FaCoY, the input queries are used from PostFinder work which is available on https://github.com/MDEGroup/PostFinder. 
